@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+cefffb5 - edorumag, 20 seconds ago : Update commit_logger.yml
+5f52ad1 - GitHub Actions, 6 minutes ago : Auto: Add latest commits log
+026d2ee - Xavier de la Encarnación, 6 minutes ago : testcommit
